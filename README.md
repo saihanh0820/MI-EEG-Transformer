@@ -10,15 +10,14 @@ The code implements a hybrid model combining Transformer self-attention and cybe
    ```bash
    git clone https://github.com/saihanh0820@gmail.com/MI-EEG-Transformer.git
    cd MI-EEG-Transformer
-
-
-python==3.9.12
-torch==2.0.1
-numpy==1.24.3
-scipy==1.10.1
-scikit-learn==1.2.2
-matplotlib==3.7.1
-seaborn==0.12.2
-mne==1.3.0
-transformers==4.30.2
-tqdm==4.65.0
+2.Configuration
+   python==3.9.12
+   torch==2.0.1
+   numpy==1.24.3
+   scipy==1.10.1
+   scikit-learn==1.2.2
+   matplotlib==3.7.1
+   seaborn==0.12.2
+   mne==1.3.0
+   transformers==4.30.2
+   tqdm==4.65.0
